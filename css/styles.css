@@ -272,6 +272,9 @@ tiles {
     margin-left: 5px;
     margin-right: 5px;
   }
+  .txtimg p {
+    display: none;
+  }
 
   /* End Header */
 }
@@ -290,5 +293,8 @@ tiles {
   }
   .maptile {
     width: 95%;
+  }
+  .textimg p {
+    display: none;
   }
 }
