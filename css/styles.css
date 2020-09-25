@@ -116,10 +116,7 @@ h3 {
   margin-left: 40px;
   margin-right: 40px;
 }
-tiles {
-  /* padding: 40px; */
-  /* width: 100%; */
-}
+
 .enttile {
   border: 1px solid black;
   padding: 40px;
@@ -171,11 +168,10 @@ tiles {
   margin-right: auto;
   height: 250px;
   border-radius: 5px;
-
   background-position: center;
-
   position: relative;
 }
+
 #mapid {
   position: absolute;
   bottom: 0;
@@ -231,9 +227,13 @@ tiles {
     border: 1px solid black;
     padding: 7px;
   }
+
+  /* .enttile {
+    zoom: 90%;
+  } */
   .maptile {
     margin-top: 50px;
-    width: 95%;
+    width: 93%;
   }
 }
 
@@ -245,7 +245,6 @@ tiles {
   #backimg {
     zoom: 60%;
   }
-
   /* Header */
 
   #nav-list li {
@@ -262,7 +261,7 @@ tiles {
 
   .maptile {
     margin-top: 50px;
-    width: 95%;
+    width: 85%;
   }
   .row {
     margin-left: 5px;
@@ -288,7 +287,7 @@ tiles {
     height: 1000px;
   }
   .maptile {
-    width: 95%;
+    width: 85%;
   }
   .textimg p {
     display: none;
