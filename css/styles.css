@@ -78,14 +78,10 @@ a:hover {
 
   /* margin-top: -300px; */
 }
-.textimg p {
-  font-size: 37px;
-  color: white;
-}
 
 .infoblock {
   background: #ffffff;
-  height: 300px;
+  height: 200px;
   width: 100%;
   margin-top: 15px;
   font-weight: normal;
@@ -127,10 +123,10 @@ tiles {
 .enttile {
   border: 1px solid black;
   padding: 40px;
-  width: 95%;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
-  height: 300px;
+  height: 250px;
   border-radius: 5px;
   background: url("../images/carpaccio.jpg");
   background-position: center;
@@ -142,12 +138,12 @@ tiles {
 .princtile {
   border: 1px solid black;
 
-  width: 95%;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
-  height: 300px;
+  height: 250px;
   border-radius: 5px;
-  background: url("../images/massa.jpg");
+  background: url("../images/wine.jpg");
 
   background-position: center;
   background-size: cover;
@@ -170,10 +166,10 @@ tiles {
 .maptile {
   border: 1px solid black;
   overflow: hidden;
-  width: 98%;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
-  height: 300px;
+  height: 250px;
   border-radius: 5px;
 
   background-position: center;
